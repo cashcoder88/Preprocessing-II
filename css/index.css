@@ -169,7 +169,7 @@ img {
   margin: 0 auto;
 }
 .header {
-  border-bottom: 2px dashed lightgray;
+  border-bottom: 2px dashed #C0C0C0;
 }
 .header .header-helper {
   display: flex;
@@ -202,7 +202,7 @@ img {
 .home .home-section .home-content {
   margin-top: 2rem;
   padding-bottom: 2rem;
-  border-bottom: 2px dashed lightgray;
+  border-bottom: 2px dashed #C0C0C0;
 }
 .home .content-section {
   margin: 30px 0;
@@ -253,7 +253,7 @@ img {
 .home .content-pick .destination .btn {
   padding: 10px 40px;
   border-radius: 10px;
-  background-color: teal;
+  background-color: #17A2B8;
   color: white;
   font-size: 2rem;
 }
