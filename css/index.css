@@ -168,6 +168,11 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+@media (max-width: 500px) {
+  .container {
+    background: red;
+  }
+}
 .header {
   border-bottom: 2px dashed #C0C0C0;
 }
