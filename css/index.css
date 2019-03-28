@@ -168,6 +168,20 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1.6rem 1.6rem 1rem 0;
+  padding: 2rem 2rem 2rem 0;
+}
+.header .nav_top a {
+  margin: 0 1.5rem 0 1.5rem;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.55rem;
+  color: black;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
